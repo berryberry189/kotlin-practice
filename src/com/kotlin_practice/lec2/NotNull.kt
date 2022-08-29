@@ -1,7 +1,6 @@
 package com.kotlin_practice.lec2
 
 // 3. null 아님 단언
-
 fun main() {
     println(startsWithA3("ABC"))
 }
