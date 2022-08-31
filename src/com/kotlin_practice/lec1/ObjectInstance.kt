@@ -7,7 +7,3 @@ fun main() {
     var person = Person("김민지")
 
 }
-
-class Person(s: String) {
-
-}
