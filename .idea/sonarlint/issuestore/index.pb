@@ -37,3 +37,5 @@ Y
 +src/com/kotlin_practice/lec7/FilePrinter.kt,9/8/984d02eea62fdb33baf6221e0eda1206a6ede462
 _
 /src/com/kotlin_practice/lec7/KotlinException.kt,e/c/ec019b0c332bda3cab3f1c7b1be391619d5f49ba
+^
+.src/com/kotlin_practice/lec8/KotlinFunction.kt,0/5/054eb69901fcc5776c03cfb929bfc3315ce47cfd
