@@ -33,8 +33,6 @@ X
 (src/com/kotlin_practice/lec5/KotlinIf.kt,8/6/865e3cbdf5a7da17a5843cefe58414dc95308e34
 Y
 )src/com/kotlin_practice/lec6/KotlinFor.kt,3/f/3f44264a65f669cabccceee584d0e233c599cf03
-[
-+src/com/kotlin_practice/lec7/FilePrinter.kt,9/8/984d02eea62fdb33baf6221e0eda1206a6ede462
 _
 /src/com/kotlin_practice/lec7/KotlinException.kt,e/c/ec019b0c332bda3cab3f1c7b1be391619d5f49ba
 ^
@@ -79,3 +77,7 @@ X
 (src/com/kotlin_practice/lec14/Country.kt,2/0/2007cb65e4b21f08b3e8e172f8cec875709b1826
 Z
 *src/com/kotlin_practice/lec14/PersonDto.kt,e/f/efc9faeda3fcd50693f69c9cbeb6d17f70e4e431
+V
+&src/com/kotlin_practice/lec15/Array.kt,6/9/6919d6d779ab3f781852aecc580ae8af1612f3f2
+[
++src/com/kotlin_practice/lec15/Collection.kt,f/3/f3e21488cf8142edfe1e3440aa724ed05e62e4e1
